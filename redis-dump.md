@@ -14,6 +14,6 @@ php环境下这3步不可少
 
 使用示例：
 
-导出`redis-dump -u 127.0.0.1:6379 > redis_data.json`
+导出`redis-dump -u 127.0.0.1:6379 > redis_data`
 
 导入  `cat redis_data | redis-load -u 120.0.0.1:6379`
