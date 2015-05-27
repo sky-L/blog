@@ -5,6 +5,7 @@ redis合并多个数据
 说一下安装，使用文档这里有 https://github.com/delano/redis-dump
 
 >Ubuntu环境
+
 ```
 apt-get install ruby
 
@@ -14,7 +15,9 @@ gem install redis-dump
 
 php环境下这3步不可少
 ```
+
 >centos环境
+
 ```
 yum install ruby rubygems ruby-devel   //安装rubygems 以及相关包  
 
