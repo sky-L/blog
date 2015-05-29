@@ -1,5 +1,7 @@
 >php 打模块 
 
+>下载扩展包地址 [这里](http://pecl.php.net/)
+
 以mongo为例：centoos 	(源码编译)
 	```	
 	访问github网站然后搜索"mongo php driver"
